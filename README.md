@@ -12,4 +12,4 @@ Learn more about [Chatype][1]
 
 
   [1]: http://chatype.com/
-  [2]: http://google.com
+  [2]: https://chrome.google.com/webstore/detail/chatype-all-the-things/lemklljglcmkifeacmafcgofakdpbkjb
