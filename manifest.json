@@ -1,6 +1,6 @@
 {
   "name": "Chatype all the things!!!",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "manifest_version": 2,
   "description" : "Convert all the text on a web page to Chatype",
   "permissions": ["activeTab"],
